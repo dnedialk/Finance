@@ -1,0 +1,4 @@
+ID,Status,Direction,"Created on","Finished on","Source fee amount","Source fee currency","Target fee amount","Target fee currency","Source name","Source amount (after fees)","Source currency","Target name","Target amount (after fees)","Target currency","Exchange rate",Reference,Batch,"Created by",Category,Note
+TRANSFER-1786047536,COMPLETED,IN,"2025-10-24 22:25:53","2025-10-24 22:25:58",0.00,AUD,,,"NEDIALKOV DIMITER ILIEV",100.00,AUD,"Dimiter Nedialkov",100.0,AUD,1.0,"Wise in Bangkok Wise",,"Dimiter Nedialkov","Money added",
+CARD_ORDER-20444758,COMPLETED,OUT,"2025-10-20 07:57:46","2025-10-20 07:58:51",,,,,,10.00,AUD,TransferWise,10.00,AUD,1.00000000,20444758,,"Dimiter Nedialkov",General,
+TRANSFER-1778377041,COMPLETED,IN,"2025-10-20 07:57:46","2025-10-20 07:58:51",0.00,AUD,,,"Dimiter Nedialkov",10.0,AUD,"Dimiter Nedialkov",10.0,AUD,1.0,invoice-20444758,,"Dimiter Nedialkov","Money added",
