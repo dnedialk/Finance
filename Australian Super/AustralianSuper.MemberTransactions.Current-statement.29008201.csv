@@ -1,0 +1,37 @@
+Date,Category,Title,Description,Payment period,SG Contributions,Employer additional,Salary sacrifice,Member additional,Balanced,High Growth,Socially Aware,Indexed Diversified,Conservative Balanced,Stable,Australian Shares,International Shares,Property,Diversified Fixed Interest,Cash,Member Direct - Cash,Member Direct - Equity,Member Direct - Term Deposits,Total Amount
+2026-07-07,CONTRIBUTIONS,Contribution - Employer,Passmark Software Pty Ltd,2026-06-01/2026-06-30,1995.84,0.0,0.0,0.0,,,,,,,,,,,,,,,1995.84
+2026-07-31,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-16.32
+2026-07-31,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-9.61
+2026-07-31,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-26.85
+2026-07-31,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,5.05
+2026-07-31,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-33.65
+2026-07-31,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.75
+2026-07-31,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-5.0
+2026-07-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,-291.46
+2026-08-07,CONTRIBUTIONS,Contribution - Employer,Passmark Software Pty Ltd,2026-07-01/2026-07-31,1995.84,0.0,0.0,0.0,,,,,,,,,,,,,,,1995.84
+2026-08-28,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-7.69
+2026-08-28,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-13.05
+2026-08-28,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-21.48
+2026-08-28,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-26.92
+2026-08-28,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.6
+2026-08-28,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-4.0
+2026-08-28,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,4.04
+2026-08-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,-293.05
+2026-09-03,CONTRIBUTIONS,Contribution - Employer,Passmark Software Pty Ltd,2026-08-01/2026-08-31,1243.04,0.0,0.0,0.0,,,,,,,,,,,,,,,1243.04
+2026-09-25,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-13.05
+2026-09-25,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-7.69
+2026-09-25,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-21.48
+2026-09-25,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-4.0
+2026-09-25,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.6
+2026-09-25,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-26.92
+2026-09-25,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,4.04
+2026-09-30,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,-180.13
+2026-10-06,CONTRIBUTIONS,Contribution - Employer,Passmark Software Pty Ltd,2026-09-01/2026-09-30,1995.84,0.0,0.0,0.0,,,,,,,,,,,,,,,1995.84
+2026-10-30,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-9.51
+2026-10-30,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-16.24
+2026-10-30,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-28.13
+2026-10-30,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-33.65
+2026-10-30,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.75
+2026-10-30,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-5.0
+2026-10-30,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,5.05
+2026-10-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,-291.29

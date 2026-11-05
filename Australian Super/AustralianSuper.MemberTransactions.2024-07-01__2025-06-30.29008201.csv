@@ -1,0 +1,102 @@
+Date,Category,Title,Description,Payment period,SG Contributions,Employer additional,Salary sacrifice,Member additional,Balanced,High Growth,Socially Aware,Indexed Diversified,Conservative Balanced,Stable,Australian Shares,International Shares,Property,Diversified Fixed Interest,Cash,Member Direct - Cash,Member Direct - Equity,Member Direct - Term Deposits,Total Amount
+2024-07-05,CONTRIBUTIONS,Contribution - Employer,Passmark Software Pty Ltd,2024-04-01/2024-06-30,4839.99,0.0,0.0,0.0,,,,,,,,,,,,,,,4839.99
+2024-07-26,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-11.36
+2024-07-26,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-5.49
+2024-07-26,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-16.49
+2024-07-26,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-4.0
+2024-07-26,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.6
+2024-07-26,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-24.44
+2024-07-26,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,3.67
+2024-07-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,-721.01
+2024-08-30,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-6.86
+2024-08-30,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-20.62
+2024-08-30,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-14.2
+2024-08-30,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,4.64
+2024-08-30,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.75
+2024-08-30,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-30.9
+2024-08-30,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-5.0
+2024-08-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,6.25
+2024-09-27,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-11.36
+2024-09-27,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-5.49
+2024-09-27,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-16.49
+2024-09-27,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-4.0
+2024-09-27,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,3.77
+2024-09-27,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-25.1
+2024-09-27,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.6
+2024-10-08,CONTRIBUTIONS,Contribution - Employer,Passmark Software Pty Ltd,2024-07-01/2024-09-30,5060.01,0.0,0.0,0.0,,,,,,,,,,,,,,,5060.01
+2024-09-30,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,4.99
+2024-10-25,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-25.77
+2024-10-25,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.6
+2024-10-25,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-4.0
+2024-10-25,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,3.87
+2024-10-25,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-14.89
+2024-10-25,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-5.89
+2024-10-25,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-10.75
+2024-10-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,-754.28
+2024-11-29,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-7.38
+2024-11-29,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-13.46
+2024-11-29,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-18.91
+2024-11-29,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-33.33
+2024-11-29,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.75
+2024-11-29,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-5.0
+2024-11-29,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,5.0
+2024-11-30,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,5.97
+2024-12-27,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-10.76
+2024-12-27,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-5.91
+2024-12-27,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-15.13
+2024-12-27,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-4.0
+2024-12-27,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.6
+2024-12-27,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-26.83
+2024-12-27,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,4.02
+2025-01-21,CONTRIBUTIONS,Contribution - Employer,Passmark Software Pty Ltd,2024-10-01/2024-12-31,5060.01,0.0,0.0,0.0,,,,,,,,,,,,,,,5060.01
+2024-12-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,4.77
+2025-01-31,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-13.46
+2025-01-31,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-7.38
+2025-01-31,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-18.91
+2025-01-31,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-5.0
+2025-01-31,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.75
+2025-01-31,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-33.65
+2025-01-31,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,5.05
+2025-01-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,-753.03
+2025-02-28,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-10.76
+2025-02-28,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-5.91
+2025-02-28,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-15.13
+2025-02-28,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,4.04
+2025-02-28,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-4.0
+2025-02-28,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.6
+2025-02-28,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-26.92
+2025-02-28,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,4.77
+2025-03-28,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-10.76
+2025-03-28,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-5.91
+2025-03-28,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-15.13
+2025-03-28,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-26.68
+2025-03-28,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,4.0
+2025-03-28,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.6
+2025-03-28,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-4.0
+2025-04-07,CONTRIBUTIONS,Contribution - Employer,Passmark Software Pty Ltd,2025-01-01/2025-03-31,6019.87,0.0,0.0,0.0,,,,,,,,,,,,,,,6019.87
+2025-03-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,4.77
+2025-04-25,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-15.13
+2025-04-25,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-5.91
+2025-04-25,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-10.76
+2025-04-25,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-4.0
+2025-04-25,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,3.98
+2025-04-25,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.6
+2025-04-25,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-26.56
+2025-04-30,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,-898.21
+2025-05-30,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-13.46
+2025-05-30,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-7.38
+2025-05-30,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-18.91
+2025-05-30,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,5.05
+2025-05-30,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-33.65
+2025-05-30,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.75
+2025-05-30,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-5.0
+2025-05-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,5.97
+2025-06-27,INSURANCE,Insurance - Premium,Income Protection,,,,,,,,,,,,,,,,,,,,-15.13
+2025-06-27,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-5.91
+2025-06-27,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-10.76
+2025-06-27,FEES,Fee - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,-26.92
+2025-06-27,FEES,Tax benefit - Asset-based administration fee,,,,,,,,,,,,,,,,,,,,,4.04
+2025-06-27,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-4.0
+2025-06-27,FEES,Tax benefit - Flat administration fee,,,,,,,,,,,,,,,,,,,,,0.6
+2025-06-30,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,4.77
+2025-06-30,INVESTMENTS,Investments - Returns,,,,,,,1.17,,,,,,20484.21,23562.51,,,,,,,44047.89

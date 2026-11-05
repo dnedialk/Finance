@@ -1,0 +1,55 @@
+Date,Category,Title,Description,Payment period,SG Contributions,Employer additional,Salary sacrifice,Member additional,Balanced,High Growth,Socially Aware,Indexed Diversified,Conservative Balanced,Stable,Australian Shares,International Shares,Property,Diversified Fixed Interest,Cash,Member Direct - Cash,Member Direct - Equity,Member Direct - Term Deposits,Total Amount
+2021-07-30,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-16.21
+2021-07-30,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-8.58
+2021-07-30,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-11.25
+2021-07-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,3.72
+2021-08-27,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-12.96
+2021-08-27,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-6.87
+2021-08-27,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-9.0
+2021-08-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,2.97
+2021-09-24,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-6.87
+2021-09-24,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-12.96
+2021-09-24,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-9.0
+2021-09-30,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,2.97
+2021-10-29,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-16.55
+2021-10-29,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-8.74
+2021-10-29,CONTRIBUTIONS,Contribution - Employer,BOOST DESIGN PTY. LTD.,2021-06-01/2021-06-30,1045.0,0.0,0.0,0.0,,,,,,,,,,,,,,,1045.0
+2021-10-29,CONTRIBUTIONS,Contribution - Employer,BOOST DESIGN PTY. LTD.,2021-07-01/2021-08-31,2200.0,0.0,0.0,0.0,,,,,,,,,,,,,,,2200.0
+2021-10-29,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-11.25
+2021-10-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,-482.96
+2021-11-26,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-13.33
+2021-11-26,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-7.03
+2021-11-26,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-9.0
+2021-11-30,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,3.05
+2021-12-31,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-16.66
+2021-12-31,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-8.79
+2021-12-31,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-11.25
+2021-12-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,3.82
+2022-01-28,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-13.33
+2022-01-28,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-7.03
+2022-01-28,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-9.0
+2022-01-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,3.05
+2022-02-01,CONTRIBUTIONS,Contribution - Employer,BOOST DESIGN PTY. LTD.,2021-09-01/2021-11-30,3300.0,0.0,0.0,0.0,,,,,,,,,,,,,,,3300.0
+2022-02-25,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-7.03
+2022-02-25,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-13.33
+2022-02-25,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-9.0
+2022-02-28,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,-491.95
+2022-03-25,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-13.33
+2022-03-25,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-7.03
+2022-03-25,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-9.0
+2022-03-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,3.05
+2022-04-26,CONTRIBUTIONS,Contribution - Employer,BOOST DESIGN PTY. LTD.,2021-12-01/2022-02-28,3750.0,0.0,0.0,0.0,,,,,,,,,,,,,,,3750.0
+2022-04-29,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-16.66
+2022-04-29,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-8.79
+2022-04-29,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-11.25
+2022-04-30,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,-558.68
+2022-05-27,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-13.33
+2022-05-27,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-7.03
+2022-05-27,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-9.0
+2022-05-31,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,3.05
+2022-06-24,INSURANCE,Insurance - Premium,Death,,,,,,,,,,,,,,,,,,,,-12.71
+2022-06-24,INSURANCE,Insurance - Premium,Total and Permanent Disablement (TPD),,,,,,,,,,,,,,,,,,,,-5.96
+2022-06-24,FEES,Fee - Flat administration fee,,,,,,,,,,,,,,,,,,,,,-9.0
+2022-06-27,CONTRIBUTIONS,Contribution - Employer,BOOST DESIGN PTY. LTD.,2022-03-01/2022-05-31,3750.0,0.0,0.0,0.0,,,,,,,,,,,,,,,3750.0
+2022-06-30,GOVERNMENT_TAXES,Tax - Contributions,,,,,,,,,,,,,,,,,,,,,-559.7
+2022-06-30,INVESTMENTS,Investments - Returns,,,,,,,-0.30,,,,,,-1268.30,-15247.83,,,,,,,-16516.43
