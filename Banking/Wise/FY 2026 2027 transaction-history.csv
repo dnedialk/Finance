@@ -1,4 +1,9 @@
 ID,Status,Direction,"Created on","Finished on","Source fee amount","Source fee currency","Target fee amount","Target fee currency","Source name","Source amount (after fees)","Source currency","Target name","Target amount (after fees)","Target currency","Exchange rate",Reference,Batch,"Created by",Category,Note
+"CARD_TRANSACTION-4567368839",COMPLETED,OUT,"2026-11-05 01:16:52","2026-11-05 01:16:52",0.00,AUD,,,"Dimiter Nedialkov",2.30,AUD,"Woolworths Metro",2.30,AUD,1.0000000000000000,,,"Dimiter Nedialkov",Groceries,
+"CARD_TRANSACTION-4566921836",COMPLETED,OUT,"2026-11-04 21:44:53","2026-11-04 21:44:53",0.00,AUD,,,"Dimiter Nedialkov",39.00,AUD,"Reuben Hills",39.00,AUD,1.0000000000000000,,,"Dimiter Nedialkov","Eating out",
+"CARD_TRANSACTION-4562898434",COMPLETED,OUT,"2026-11-04 01:42:36","2026-11-04 01:42:36",0.00,AUD,,,"Dimiter Nedialkov",2.75,AUD,Lime,2.75,AUD,1.0000000000000000,,,"Dimiter Nedialkov",Transport,
+"CARD_TRANSACTION-4562853319",COMPLETED,OUT,"2026-11-04 01:20:41","2026-11-04 01:20:41",0.00,AUD,,,"Dimiter Nedialkov",2.75,AUD,Lime,2.75,AUD,1.0000000000000000,,,"Dimiter Nedialkov",Transport,
+"CARD_TRANSACTION-4562333046",COMPLETED,OUT,"2026-11-03 21:14:20","2026-11-03 21:14:20",0.00,AUD,,,"Dimiter Nedialkov",50.50,AUD,"Reuben Hills",50.50,AUD,1.0000000000000000,,,"Dimiter Nedialkov","Eating out",
 "CARD_TRANSACTION-4557922821",COMPLETED,OUT,"2026-11-02 21:34:50","2026-11-02 21:34:50",0.00,AUD,,,"Dimiter Nedialkov",52.50,AUD,"Reuben Hills",52.50,AUD,1.0000000000000000,,,"Dimiter Nedialkov","Eating out",
 "CARD_TRANSACTION-4554842668",COMPLETED,OUT,"2026-11-02 08:24:41","2026-11-02 08:24:41",0.00,AUD,,,"Dimiter Nedialkov",46.15,AUD,"Coles Supermarkets",46.15,AUD,1.0000000000000000,,,"Dimiter Nedialkov",Groceries,
 "CARD_TRANSACTION-4549644471",COMPLETED,OUT,"2026-11-01 02:23:33","2026-11-01 02:23:33",0.00,AUD,,,"Dimiter Nedialkov",9.20,AUD,"Transport for NSW",9.20,AUD,1.0000000000000000,,,"Dimiter Nedialkov",Transport,
