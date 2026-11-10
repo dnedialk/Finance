@@ -44,7 +44,7 @@ The current end of the data is set in `build2.py` (`END`); periods, month lists 
 - `receipts_img/2025 11 07 Birrell keys 23.95.jpg` (cash receipt).
 - Telstra dividend advices (2025-03-28, 2025-09-25, 2026-03-27, 2026-09-24).
 - Last year's tax workbook (`taxin/t.xlsx`, sheet "2025"): first-rented dates, the borrowing-cost schedule, Birrell wardrobes and blinds, and the old work-asset depreciation schedule.
-- Tax documents (`tax_docs/`): lodgment summary (receipt 24112 8590 1598), notice of assessment (30 Oct 2026), ANZ BPAY receipt (2 Nov 2026), ATO payment page (income tax PRN 551001993922040821), PAYG instalment letter (4 Nov 2026).
+- Tax documents (`tax_docs/`): lodgment summary (receipt 24112 8590 1598), notice of assessment (30 Oct 2026), ANZ BPAY receipt (2 Nov 2026), ATO payment page (income tax PRN 551001993922040821), PAYG instalment letter (4 Nov 2026), Division 293 due-and-payable election (10 Nov 2026, ATO receipt 2411294574816), and the Income tax 551 transaction list Dimiter pasted on 10 Nov.
 - Employment (`payslips/`): 44 payslips May 2023 to October 2026, the 2023 job offer, the 28 Apr 2026 Touchstone Point contract, the 4 Jun 2026 side letter. Parsed by `payslip_parse.py` into `payslips.json`.
 - Super (`super/`): six AustralianSuper member-transaction CSVs, 2021-07-01 to now.
 - RBA cash-rate decisions (pasted by Dimiter) for the loan rate table.
@@ -133,13 +133,15 @@ Unmatched card spending defaults to Living / Eating out and coffee and is review
 - Crypto: $100 into Independent Reserve 2025-11-25, sold 2026-02-06 for $67.32 after fees: capital loss carried forward $32.
 - Dudley borrowing expenses: $668.80 (FY2025-26 share of the 5-year schedule in last year's workbook).
 - Lodged figures: taxable income $225,161; Birrell net rent $58,844.03; Dudley -$30,580.53; deductions $3,733.66; amount payable $13,512.65, paid 2026-11-02.
+- Division 293 tax FY2025-26: $398.35, raised 2026-11-09 on Income tax 551, effective 2026-12-07. Taxable income $225,161 + concessional contributions received in FY2025-26 $27,495.00 = $252,656, which is $2,656 over $250,000; 15% = $398.40 (ATO is 5c lower). Dimiter elected on 2026-11-10 to have AustralianSuper (account 29008201) pay it from his super, so it will not appear in the bank data. Expect a withdrawal of $398.35 on the next super export and a matching credit on Income tax 551. Do not pay it by BPAY. Not deductible. Expect Div 293 again for FY2026-27.
 
 ### 5.6 Employment and super
 
 - Employer was PassMark Software Pty Ltd (ACN 099 321 392, listed by the ATO as Coogee Code Pty Ltd) to 2026-05-13, then PassMark Software Pty Ltd (ACN 696 978 220) after the sale. The contract names Touchstone Point Pty Ltd; the side letter moved employment to the new subsidiary.
 - Salary history: $160,000 (May 2023), $176,000 (Jan 2024), $190,080 (Jan 2025), $199,584 (Jan 2026). $6,000 bonus each December 2023-2025.
 - The annual-leave drop of 10.46 hours on the 2026-06-12 payslip is the May leave taken (16 h) less May accrual (5.54 h) at the old company. It is correct.
-- Super: the old company's 2026-05-01 payslip super of $1,995.84 (April work) was never paid to AustralianSuper. Its periods jumped from 2026-04-01..04-30 to 2026-05-02..06-14. It was due 2026-07-28.
+- Super: the old company's 2026-05-01 payslip super of $1,995.84 (April work) was never paid to AustralianSuper. Its periods jumped from 2026-04-01..04-30 to 2026-05-02..06-14. It was due 2026-07-28. Proof it is the April payslip: the 2026-04-02 payment of $6,612.48 is exactly the Dec ($1,900.80 + $720 on the bonus), Jan and Feb payslips, so the old company pays by pay date and the 2026-05-04 payment is March's. Sally Ram (finance) replied on 2026-11-06 confirming only that 13-31 May was paid; April is still unconfirmed and a follow-up was drafted.
+- Super withdrawals: the $398.35 Division 293 release (5.5) will show as a debit on the AustralianSuper export. It is not a contribution and must not affect the owed-vs-received ledger.
 
 ### 5.7 Exceptions to the matching principle
 
@@ -313,7 +315,8 @@ One row per transaction in scope: date, account, amount, group, category, mercha
 ## 8. Open items
 
 - PAYG instalments from FY2026-27: $3,507 a quarter or 10.94% of gross rent and dividends. The rate option looks better after Birrell's rent stops.
-- Missing $1,995.84 of super from the old company (see 5.6).
+- Missing $1,995.84 of super from the old company (see 5.6). Waiting on Sally's answer about the April payslip.
+- Division 293 release of $398.35: check that AustralianSuper has paid it (around 2026-11-24) and that Income tax 551 is back to $0.00 before 2026-12-07. If it hasn't, call the ATO.
 - The share of Dudley interest that relates to personal redraws: the 2026-11-02 redraws paid the tax bill and the Nancarrow rent.
 - The Belle Property August 2025 statement (agent fees).
 - The capital works and depreciation report for both properties.
